@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **marketplace**
 
-- 🌱 I’m currently learning **Ai, dart**
+- 🌱 I’m currently learning **Ai, dart, git**
 
 - 💬 Ask me about **Python and its frameworks**
 
