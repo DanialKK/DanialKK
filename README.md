@@ -10,7 +10,10 @@
 - 💬 Ask me about **Python and its frameworks**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+<a href="https://t.me/dnial">Telegram</a>
+<a href="https://discordapp.com/users/1255172554801287251">Discord</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
