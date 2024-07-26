@@ -21,6 +21,7 @@
 <a href="https://https://customtkinter.tomschimansky.com/" target="_blank" rel="noreferrer"> <img src="https://customtkinter.tomschimansky.com/img/icon.ico" alt="CustomTkinter" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danialkk&show_icons=true&locale=en&layout=compact" alt="danialkk" /></p>
