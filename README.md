@@ -4,7 +4,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV5Znl5NGpnbGNoaXc4OXh5Z2lkdW5kMG1wY3EzOG5sbmVlNzdyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" width="60%" height="50%" alt="fun">
 </div>
 <br></br>
-- 🔭 I’m currently working on **Game trainer market**
+- 🔭 I’m currently working on  **Game trainer market**
 
 - 🌱 I’m currently learning **nodejs, ai**
 
