@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">A backend and frontend developer from Iran</h3>
+<h3 align="center">A full stack developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danialkk&label=Profile%20views&color=0e75b6&style=flat" alt="danialkk" /> </p>
 
-- 🔭 I’m currently working on **marketplace**
+- 🔭 I’m currently working on **Game trainer market**
 
-- 🌱 I’m currently learning **tailwind, git**
+- 🌱 I’m currently learning **nodejs, ai**
 
-- 💬 Ask me about **Python and its frameworks**
+- 💬 Ask me about **Software engineering**
 
 <h3 align="left">Connect with me:</h3>
 
