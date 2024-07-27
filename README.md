@@ -10,11 +10,7 @@
 
 - 💬 Ask me about **Software engineering**
 
-<h3 align="left">Connect with me:</h3>
-
-<hr>
-
-<p align="center">
+<h3 align="left">Connect with me
   <a href="https://t.me/dnial">
     <img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Danial's Telegram" width="30" height="30">
   </a>
@@ -22,11 +18,7 @@
   <a href="https://discordapp.com/users/1255172554801287251">
     <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Danial's Discord" width="30" height="30">
   </a>
-</p>
-
-<hr>
-
-
+ </h3>
 
 
 
