@@ -12,11 +12,16 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<a href="https://t.me/dnial"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Danial's Telegram" width="30" height="30" ></a>
-<span> or </span>
-<a href="https://discordapp.com/users/1255172554801287251"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Danial's Discord" width="30" height="30" ></a>
-</p>
+<div align="center">
+  <hr>
+  <p align="left">
+    <a href="https://t.me/dnial"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Danial's Telegram" width="30" height="30"></a>
+    <span> or </span>
+    <a href="https://discordapp.com/users/1255172554801287251"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Danial's Discord" width="30" height="30"></a>
+  </p>
+  <br>
+  <hr>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
