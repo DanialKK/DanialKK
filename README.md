@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">A full stack developer from the earth</h3><span><img border="0" height="32" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfm2Ce82zqdQ_SOm8SjyAuiirKjLOtHBTD9gTYtgs86D1u1zZ4rJSzcpYiQKn7fn91MymlJGaLHz7fnyIh_dBykFxEtTSs_IQEeeRYalglbf775pcmfD9veeWqAu334eyiju_o-T2XCG28/s320/day_globe_75fr_125ms.gif" width="32"></span>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danialkk&label=Profile%20views&color=0e75b6&style=flat" alt="danialkk" /> </p>
+<h3 align="center">A full stack developer from the earth</h3><span><img height="32" src="https://cdn.pixabay.com/animation/2023/06/02/22/11/22-11-28-528_512.gif" width="32"></span>
 
 - 🔭 I’m currently working on **Game trainer market**
 
@@ -38,6 +36,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danialkk&label=Profile%20views&color=0e75b6&style=flat" alt="danialkk" /> </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danialkk&show_icons=true&locale=en&layout=compact" alt="danialkk" /></p>
 
