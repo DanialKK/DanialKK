@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Software engineering**
 
-<h3 align="left">Connect with me
+<h3 align="left">Connect me
   <a href="https://t.me/dnial">
     <img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Danial's Telegram" width="30" height="30">
   </a>
