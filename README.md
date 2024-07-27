@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://t.me/dnial">Telegram<img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Telegram" width="10" height="10" ></a>
-<a href="https://discordapp.com/users/1255172554801287251">Discord</a>
+<a href="https://t.me/dnial"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Danial's Telegram" width="20" height="20" ></a>
+<a href="https://discordapp.com/users/1255172554801287251"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Danial's Discord" width="20" height="20" ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
