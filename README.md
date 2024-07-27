@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">a full stack developer from the earth</h3><span><img src="https://cdn.pixabay.com/animation/2023/06/02/22/11/22-11-28-528_512.gif" alt="Earth GIF and Globe GIF" title="Earth GIF and Globe animated"></span>
+<h3 align="center">a full stack developer from the earth</h3>
+<iframe src="https://giphy.com/embed/CTX0ivSQbI78A" width="480" height="355" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/internet-computer-technology-CTX0ivSQbI78A"></a></p>
 
 - 🔭 I’m currently working on **Game trainer market**
 
