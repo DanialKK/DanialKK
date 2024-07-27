@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://t.me/dnial">Telegram</a>
+<a href="https://t.me/dnial">Telegram<img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Telegram" width="10" height="10" ></a>
 <a href="https://discordapp.com/users/1255172554801287251">Discord</a>
 </p>
 
