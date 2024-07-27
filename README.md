@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="center">a full stack developer from the earth</h3><span><img srcset="https://cdn.pixabay.com/animation/2023/06/02/22/11/22-11-28-528_256.gif 1x, https://cdn.pixabay.com/animation/2023/06/02/22/11/22-11-28-528_512.gif 2x" src="https://cdn.pixabay.com/animation/2023/06/02/22/11/22-11-28-528_512.gif" alt="Free Earth GIF and Globe GIF" title="Earth GIF and Globe animated" style="max-width: 40px; max-height: 40px;"></span>
+<h3 align="center">a full stack developer from the earth</h3><span><img src="https://cdn.pixabay.com/animation/2023/06/02/22/11/22-11-28-528_512.gif" alt="Earth GIF and Globe GIF" title="Earth GIF and Globe animated"></span>
 
 - 🔭 I’m currently working on **Game trainer market**
 
