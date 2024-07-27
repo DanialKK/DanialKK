@@ -12,13 +12,20 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div align="center" style="width: 100%; border-top: 1px solid #000; line-height: 0; margin: 10px 0;">
-  <span style="font-size: 0; background-color: #fff; padding: 0 10px;">
-    <a href="https://t.me/dnial"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Danial's Telegram" width="30" height="30"></a>
-    <span style="font-size: 16px;"> or </span>
-    <a href="https://discordapp.com/users/1255172554801287251"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Danial's Discord" width="30" height="30"></a>
-  </span>
-</div>
+<hr>
+
+<p align="center">
+  <a href="https://t.me/dnial">
+    <img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Danial's Telegram" width="30" height="30">
+  </a>
+  <span> or </span>
+  <a href="https://discordapp.com/users/1255172554801287251">
+    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Danial's Discord" width="30" height="30">
+  </a>
+</p>
+
+<hr>
+
 
 
 
