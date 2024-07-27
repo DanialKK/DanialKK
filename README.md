@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
 <h3 align="center">a full stack developer from the earth</h3>
-<iframe src="https://giphy.com/embed/CTX0ivSQbI78A" width="480" height="355" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/internet-computer-technology-CTX0ivSQbI78A"></a></p>
+<img src="https://giphy.com/embed/CTX0ivSQbI78A" width="480" height="355">
 
 - 🔭 I’m currently working on **Game trainer market**
 
