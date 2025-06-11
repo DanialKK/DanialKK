@@ -5,9 +5,9 @@
 </div>
 <br></br>
 
-- 🔭 currently working on **Game trainer market**
+- 🔭 currently working on **marketplaces**
 
-- 🌱 currently learning **nodejs, ai**
+- 🌱 currently learning **ai**
 
 - 💬 Ask me about **Software engineering**
 
